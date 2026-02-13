@@ -106,15 +106,15 @@ Features:
 # 🚀 How It Works (Step-by-Step)
 
 1️⃣ User provides input  
-⬇  
+ 
 2️⃣ Service layer receives request  
-⬇  
+
 3️⃣ Task delegated to appropriate agent  
-⬇  
+  
 4️⃣ Agent generates structured output  
-⬇  
+  
 5️⃣ Evaluator validates response  
-⬇  
+  
 6️⃣ Final result displayed in UI  
 
 This mirrors real-world AI orchestration systems.
