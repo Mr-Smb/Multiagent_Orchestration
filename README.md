@@ -1,3 +1,3 @@
 ## 📸 Product Preview
 
-<img src="assets/Multiagent.png" width="900">
+![Multi-Agent Platform](assets/Multiagent.png)
