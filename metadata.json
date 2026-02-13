@@ -1,0 +1,7 @@
+{
+  "name": "SMB AI Store - MVP",
+  "description": "A multi-agent system dashboard featuring sports, coding, and news agents with real-time orchestration, voice authentication simulation, and Gemini-powered intent routing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
